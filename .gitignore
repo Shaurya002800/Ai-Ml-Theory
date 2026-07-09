@@ -1,0 +1,22 @@
+# macOS metadata
+.DS_Store
+
+# Python and notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+env/
+
+# Large datasets and generated model artifacts
+data/
+*.tar
+*.tar.gz
+*.zip
+*.pkl
+*.pt
+*.pth
+*.onnx
